@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rituraj Basant Singh 👋
 
-<!--
-**001basant/001basant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Developer in Making | Python | Automation | Chatbot | Agentic AI
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+- Prompt Engineering
+- AI Automation (Python, Selenium, n8n)
+- AI Chatbot Development (LangChain, RAG)
+- Agentic AI (CrewAI, LangGraph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: Build AI-powered solutions that solve real problems
+
+💼 Open to: Jobs | Freelancing | Collaborations
+
+📫 Contact: riturajdeveloper001@gmail.com
+
+---
+
+## 🛠️ Skills I'm Building
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+⚡ *"Every expert was once a beginner. Starting today!"*
