@@ -39,5 +39,3 @@ I am always open to discussing AI architecture, freelance automation projects, o
 - 💼 **Open to:** Freelance Projects | Internships | Junior AI Developer Roles | Open Source Collaboration
 
 ---
-
-> ⚡ *"Engineering intelligent solutions today to automate the challenges of tomorrow."*
